@@ -11,8 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Completed a **9-week Web Development Bootcamp**
-- 💻 Currently building my **developer portfolio**
+- 🎓 Completed **LeWagon 9-week Web Development Bootcamp**
 - 🌍 Based in **Japan**
 - 🗳 Working on an app idea **PokeClo** 
 - 🇺🇸 Studied abroad in **California**
@@ -57,7 +56,7 @@
 ## 🌐 Connect with me
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/ryotahayakawa">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
