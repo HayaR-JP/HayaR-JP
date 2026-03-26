@@ -12,9 +12,8 @@
 ## 🚀 About Me
 
 - 🎓 Completed **LeWagon 9-week Web Development Bootcamp**
-- 🗳 Worked on an app idea **PokeClo** 
+- 🗳 Worked on an app idea **PokeClo**
 - 🌍 Based in **Japan**
-- 🇺🇸 Studied abroad in **California**
 
 ---
 
