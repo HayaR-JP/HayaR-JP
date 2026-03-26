@@ -7,15 +7,13 @@
   </a>
 </p>
 
----
+
 
 ## 🚀 About Me
 
 - 🎓 Completed **LeWagon 9-week Web Development Bootcamp**
 - 🗳 Worked on an app idea **PokeClo**
 - 🌍 Based in **Japan**
-
----
 
 ## 🛠 Tech Stack
 
@@ -31,8 +29,6 @@
 <img src="https://skillicons.dev/icons?i=rails,bootstrap,git,github" />
 </p>
 
----
-
 ## 📚 Currently Learning
 
 - React,TypeScript
@@ -40,7 +36,6 @@
 - API Development
 - System Design
 
----
 
 ## 🌐 Connect with me
 
@@ -53,7 +48,5 @@
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
-
----
 
 ⭐️ From **Ryota Hayakawa**
