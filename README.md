@@ -29,7 +29,7 @@
 ### Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=rails,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=rails,stimulus,git,github" />
 </p>
 
 ---
