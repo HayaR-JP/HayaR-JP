@@ -20,13 +20,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ruby,html,css,postgres" />
+<img src="https://skillicons.dev/icons?i=js,ruby,html,css,postgres,typescript" />
 </p>
 
 ### Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=rails,bootstrap,git,github" />
+<img src="https://skillicons.dev/icons?i=rails,bootstrap,git,github,nodejs,react" />
 </p>
 
 ## 📚 Currently Learning
