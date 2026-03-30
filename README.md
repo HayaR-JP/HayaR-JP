@@ -26,7 +26,7 @@
 ### Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=rails,bootstrap,git,github,nodejs,react" />
+<img src="https://skillicons.dev/icons?i=rails,bootstrap,git,github,react" />
 </p>
 
 ## 📚 Currently Learning
